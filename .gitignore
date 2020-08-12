@@ -1,0 +1,17 @@
+# vivado
+vivado_project/*
+
+# LaTeX temp files
+_minted-*/
+*.synctex.gz
+*.aux
+*.log
+*.out
+*.toc
+
+# Final submit report
+实验报告.pdf
+实验报告.tex
+*.zip
+
+.vscode/settings.json

@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "truecrab.verilog-testbench-instance",
+    "isaact.verilog-formatter",
+    "mshr-h.veriloghdl"
+  ]
+}
